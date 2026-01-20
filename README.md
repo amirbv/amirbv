@@ -1,6 +1,6 @@
 # Amir Bastidas 👋
 
-**Frontend Web Developer | React/Next.js | Web3 & PWAs | Maracaibo, VE**
+**Frontend Developer | React/Next.js | Web3 & PWAs | Maracaibo, VE**
 
 Frontend developer passionate about crafting performant, accessible UIs for complex data-heavy applications. 6+ years building production React apps, PWAs, and Web3 dApps with a focus on UX, security, and Core Web Vitals.
 
